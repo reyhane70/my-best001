@@ -4,4 +4,4 @@ import random, string
 
 chars = string.ascii_letters + string.digits + "!@#$%^&*()"
 password = "".join(random.choice(chars)  _for in range(12))
-print("Generated password:", password)
+print("Generated password:", )
